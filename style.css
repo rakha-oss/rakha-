@@ -1,0 +1,13 @@
+.sec1 {
+    background-color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.sec2 {
+    background-color: bisque;
+    font-size: medium;
+    text-align: center;
+    height: 1240px;
+    weight:80px;
+    color:blue;
+}
